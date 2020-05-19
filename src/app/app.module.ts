@@ -69,13 +69,8 @@ import { CategoriesComponent } from './components/categories/categories.componen
     MatCardModule,
     MatSidenavModule,
     MatListModule,
-    BrowserDynamicTestingModule,
-    CorporateCakesComponent,
-    SpecialOccasionCakesComponent,
-    CookiesCupcakesComponent,
-    DessertsComponent,
-    CategoriesComponent,
-    BirthdayCakesComponent
+    BrowserDynamicTestingModule
+    
   ],
 
 
